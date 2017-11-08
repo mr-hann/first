@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="Untitled-Page%201" viewBox="0 0 170 113" style="background-color:#ffffff00" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="170px" height="113px"
+>
+	<g id="Layer%201">
+		<g>
+			<path d="M 38 3 L 84 3 C 86.7615 3 89 5.2385 89 8 L 89 97 C 89 99.7615 86.7615 102 84 102 L 38 102 C 35.2385 102 33 99.7615 33 97 L 33 8 C 33 5.2385 35.2385 3 38 3 Z" stroke="#3167a9" stroke-width="2" fill="#f3f7fb"/>
+			<path d="M 38 17 L 84 17 L 84 86 L 38 86 L 38 17 Z" stroke="#3167a9" stroke-width="2" fill="#ffffff"/>
+			<path opacity="0.502" d="M 73 30 L 81 30 L 81 63 L 73 63 L 73 30 Z" stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 45 71 L 80 71 " stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 45 77 L 80 77 " stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 45 24 L 53 24 L 53 63 L 45 63 L 45 24 Z" stroke="#376ea7" stroke-width="2" fill="none"/>
+			<path d="M 59 42 L 67 42 L 67 63 L 59 63 L 59 42 Z" stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 86 11 L 132 11 C 134.7615 11 137 13.2385 137 16 L 137 105 C 137 107.7615 134.7615 110 132 110 L 86 110 C 83.2385 110 81 107.7615 81 105 L 81 16 C 81 13.2385 83.2385 11 86 11 Z" stroke="#3167a9" stroke-width="2" fill="#f3f7fb"/>
+			<path d="M 86 25 L 132 25 L 132 94 L 86 94 L 86 25 Z" stroke="#3167a9" stroke-width="2" fill="#ffffff"/>
+			<g>
+				<path d="M 115.4656 48.0862 L 120.0344 42.9656 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path d="M 94.9913 57.2759 L 103.1293 35.7241 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path d="M 111.7241 49.6206 L 102.9569 35.7241 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path id="Ellipse" d="M 90.6207 57.1379 C 90.6207 54.9287 92.4116 53.1379 94.6208 53.1379 C 96.8301 53.1379 98.6207 54.9287 98.6207 57.1379 C 98.6207 59.3472 96.8301 61.1379 94.6208 61.1379 C 92.4116 61.1379 90.6207 59.3472 90.6207 57.1379 Z" stroke="#acc2da" stroke-width="2" fill="#ffffff"/>
+				<path id="Ellipse2" d="M 98.6207 36.1379 C 98.6207 33.9287 100.4116 32.1379 102.6208 32.1379 C 104.8301 32.1379 106.6207 33.9287 106.6207 36.1379 C 106.6207 38.3472 104.8301 40.1379 102.6208 40.1379 C 100.4116 40.1379 98.6207 38.3472 98.6207 36.1379 Z" stroke="#acc2da" stroke-width="2" fill="#ffffff"/>
+				<path id="Ellipse3" d="M 108.6207 50.1379 C 108.6207 47.9287 110.4116 46.1379 112.6208 46.1379 C 114.8301 46.1379 116.6207 47.9287 116.6207 50.1379 C 116.6207 52.3472 114.8301 54.1379 112.6208 54.1379 C 110.4116 54.1379 108.6207 52.3472 108.6207 50.1379 Z" stroke="#acc2da" stroke-width="2" fill="#ffffff"/>
+				<path id="Ellipse4" d="M 119.6207 40.1379 C 119.6207 37.9287 121.4116 36.1379 123.6208 36.1379 C 125.8301 36.1379 127.6207 37.9287 127.6207 40.1379 C 127.6207 42.3472 125.8301 44.1379 123.6208 44.1379 C 121.4116 44.1379 119.6207 42.3472 119.6207 40.1379 Z" stroke="#acc2da" stroke-width="2" fill="#ffffff"/>
+			</g>
+			<path d="M 92 68 L 127 68 " stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 92 74 L 127 74 " stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 92 80 L 127 80 " stroke="#adc3db" stroke-width="2" fill="none"/>
+			<path d="M 92 86 L 127 86 " stroke="#adc3db" stroke-width="2" fill="none"/>
+		</g>
+	</g>
+</svg>

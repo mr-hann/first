@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="Untitled-Page%201" viewBox="0 0 370 274" style="background-color:#ffffff00" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="370px" height="274px"
+>
+	<g id="Layer%201">
+		<g>
+			<path d="M 0 25 L 430 25 L 430 54 L 0 54 L 0 25 Z" fill="#f3f7fb"/>
+			<path d="M 6 24 C 3.2385 24 1 26.2385 1 29 L 1 309 L 427 309 L 427 29 C 427 26.2385 424.7615 24 422 24 L 6 24 Z" stroke="#366da7" stroke-width="2" fill="none"/>
+			<g>
+				<path d="M 16.8 44 L 12 39.2858 M 16.8 34.5714 L 12 39.2858 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path d="M 12.8 39.2858 L 23.2 39.2858 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path d="M 38.4 44 L 43.2 39.2858 M 38.4 34.5714 L 43.2 39.2858 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path d="M 42.4 39.2858 L 32 39.2858 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path id="Ellipse" d="M 62.8866 41.0667 C 62.2064 42.6752 60.654 43.855 58.7726 43.9877 C 56.1127 44.1753 53.8024 42.1987 53.6125 39.573 C 53.4225 36.9471 55.4247 34.6666 58.0846 34.479 C 59.9124 34.3501 61.5752 35.2432 62.4982 36.6667 " stroke="#acc2da" stroke-width="2" fill="none"/>
+				<path d="M 64 33 L 64 38.1333 L 58.8 38.1333 L 64 33 Z" fill="#acc2da"/>
+			</g>
+		</g>
+		<rect x="2" y="56" width="370" height="220" fill="#ffffff"/>
+		<path d="M 76 105 L 287 105 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 76 115 L 267 115 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 29.6558 110.3779 L 35.7129 116.5288 M 49.6558 104 L 35.7129 116.5288 " stroke="#064685" stroke-width="2" fill="none"/>
+		<path d="M 29.6558 147.6029 L 35.7129 153.7539 M 49.6558 141.225 L 35.7129 153.7539 " stroke="#064685" stroke-width="2" fill="none"/>
+		<path d="M 29.6558 184.828 L 35.7129 190.9788 M 49.6558 178.45 L 35.7129 190.9788 " stroke="#064685" stroke-width="2" fill="none"/>
+		<path d="M 29.6558 222.849 L 35.7129 229 M 49.6558 216.4712 L 35.7129 229 " stroke="#064685" stroke-width="2" fill="none"/>
+		<path d="M 317.5 102 L 343.5 102 C 345.7092 102 347.5 103.7908 347.5 106 L 347.5 113 C 347.5 115.2092 345.7092 117 343.5 117 L 317.5 117 C 315.2908 117 313.5 115.2092 313.5 113 L 313.5 106 C 313.5 103.7908 315.2908 102 317.5 102 Z" fill="#064685"/>
+		<path d="M 76 142 L 277 142 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 76 152 L 207 152 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 317.5 139 L 343.5 139 C 345.7092 139 347.5 140.7908 347.5 143 L 347.5 150 C 347.5 152.2092 345.7092 154 343.5 154 L 317.5 154 C 315.2908 154 313.5 152.2092 313.5 150 L 313.5 143 C 313.5 140.7908 315.2908 139 317.5 139 Z" fill="#064685"/>
+		<path d="M 76 179 L 267 179 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 76 189 L 247 189 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 317.5 176 L 343.5 176 C 345.7092 176 347.5 177.7908 347.5 180 L 347.5 187 C 347.5 189.2092 345.7092 191 343.5 191 L 317.5 191 C 315.2908 191 313.5 189.2092 313.5 187 L 313.5 180 C 313.5 177.7908 315.2908 176 317.5 176 Z" fill="#064685"/>
+		<path d="M 76 216 L 277 216 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 76 226 L 157 226 " stroke="#b9cbe0" stroke-width="2" fill="none"/>
+		<path d="M 317.5 213 L 343.5 213 C 345.7092 213 347.5 214.7908 347.5 217 L 347.5 224 C 347.5 226.2092 345.7092 228 343.5 228 L 317.5 228 C 315.2908 228 313.5 226.2092 313.5 224 L 313.5 217 C 313.5 214.7908 315.2908 213 317.5 213 Z" fill="#064685"/>
+		<path d="M 430 55 L 1 55 " stroke="#376ea8" stroke-width="2" fill="none"/>
+	</g>
+</svg>

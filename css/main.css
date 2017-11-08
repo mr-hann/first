@@ -1,0 +1,144 @@
+
+#n{
+background-image:url(img.img/header_home_3000_new-7158e007dd.svg) !important; 
+    padding-top: 3%;
+    width: auto;
+    background-repeat: no-repeat;
+    height:8%; 
+    
+}
+#visitor{
+  background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, #eae3e3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, #eae3e3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #eae3e3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #eae3e3); /* Standard syntax */
+    
+}
+
+#li{
+     color: white !important;
+    
+}
+#li:hover{
+     background:url(img.img/header_home_3000_new-7158e007dd.svg) !important;
+      font-weight: bolder;
+    color: black !important;
+    
+}
+#primary{
+    padding: 150px 150px 150px 150px;
+    color: white;
+}
+#button{
+     border-radius: 2px;
+    color:white;
+    background-color: #76c349;
+    padding-top: 1%;
+    padding-bottom: 1%;
+     width: 200px;
+    border:1px solid  #27a327;
+}
+#button:hover{
+    border: 1px solid white;
+    color: white;
+    background:url(img.img/header_home_3000_new-7158e007dd.svg)!important;
+    transition:background 0.2s ease-in-out;
+}
+#input{
+  border-radius: 2px;
+    background-color:#064685;
+    color:white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width:200px;
+    border: 1px solid #064685;
+
+}
+#input:hover{
+    border: 1px solid #064685;
+    color: #064685;
+    background-color: white;
+  transition:background 0.2s ease-in-out;
+}
+
+#im{
+    padding-right: -10px;
+    padding:3%; 
+    
+
+}
+#grad{
+ background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, #eae3e3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, #eae3e3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #eae3e3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #eae3e3); /* Standard syntax */
+    
+}
+#fotter{
+    background-color: #064685;
+    color: white;
+    padding:6% 
+}
+li{
+    list-style: none;
+}
+#innerfooter{
+    background-color: #062148;
+    color:white;
+    padding:6%
+}
+#h1butten{
+    padding: 5%;
+}
+#img{
+    padding:3% 3% 0 7%;
+}
+
+#im{
+    padding:1% 0 1% 30%; 
+}
+#row{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#a{
+  color: #064685 !important;  
+}
+#a:hover{
+    color: black !important;
+    text-decoration: none !important;
+    transition:color 0.3s ease-in-out;
+}
+
+#bluetext{
+    color:#064685 !important;
+}
+#upgrade{
+    
+    background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, #eae3e3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, #eae3e3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #eae3e3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #eae3e3); /* Standard syntax */
+    
+    
+}
+#growthplan{
+    float: left;
+
+}
+
+li #footer-list{
+    color:white;
+}
+li #footer-list:hover{
+    color:blue;
+    transition:color 0.3s;
+    text-decoration: none;
+}
+#english{
+    background-color:#062148;!important; 
+    border: 1px solid #062148;
+}
